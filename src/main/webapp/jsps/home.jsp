@@ -9,10 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Ebay Websi application Project 31 Automation.</h1>
+<h1 align="center">Welcome to Ebay Web application Project31 .</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
+	Class32 will resume on april 15, 2023.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
